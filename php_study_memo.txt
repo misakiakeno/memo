@@ -1,0 +1,6 @@
+php -r "file_put_contents('index.html', file_get_contents('https://hiww.github.io'));"
+<?php
+ $command = 'file *';
+ $output = shell_exec("{$command}  2>&1");
+ print($output);
+?>
