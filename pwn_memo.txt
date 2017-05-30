@@ -1,0 +1,5 @@
+objdump -M intel -d
+https://github.com/angr/angr-doc/blob/master/INSTALL.md
+sudo apt-get install python-dev libffi-dev build-essential virtualenvwrapper
+mkvirtualenv angr
+pip install angr
