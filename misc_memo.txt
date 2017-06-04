@@ -1,0 +1,11 @@
+Useful Linux Command
+binwalk -e
+foremost
+cuishark
+tail -f
+brew cleanup
+wc -m
+pbcopy
+fls
+tar -zvxf
+--force
